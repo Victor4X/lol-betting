@@ -1,4 +1,4 @@
-var limit = 15;
+var limit = 20;
 
 function updateLimit(amount) {
 	var counterElement = document.getElementById("counter");
